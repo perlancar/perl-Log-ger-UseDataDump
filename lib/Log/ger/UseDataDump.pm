@@ -26,4 +26,6 @@ L<Log::ger>
 
 L<Data::Dump>
 
+L<Log::ger::UseDataDumpColor>
+
 =cut
